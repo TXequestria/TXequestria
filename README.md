@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TXequestria
-- 👀 I’m interested in Linux Security, Censorship circumvention, Cryptos
-- 🌱 I’m currently learning C++, python, Bash
+- 👀 I’m interested in Linux Security, Machine Learning, Cryptos and Networking
+- 🌱 I’m currently learning C++, python, Bash,Rust
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me : by My Github!
 
