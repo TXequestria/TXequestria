@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TXequestria
 - 👀 I’m interested in Linux Security, Machine Learning, Cryptos and Networking
-- 🌱 I’m currently learning C/C++, Rust, Java
+- 🌱 I’m currently learning C, Rust, Python
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me : By My Github and email: txeq@tuta.io
 
